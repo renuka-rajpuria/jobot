@@ -64,7 +64,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Jobot - The AI That Does Everything</title>
+        <title>KarunyaBot</title>
         <meta
           name="description"
           content="Jobot is a general purpose, programmable & extensible AI being developed by Jovian, using state of the art machine learning models and APIs."
