@@ -81,7 +81,7 @@ export async function postOpenAIMessages(messages) {
 }
 
 const SYSTEM_MESSAGE =
-  "You are Jobot, a helpful and verstaile AI created by Jovian using state-of the art ML models and APIs.";
+  "You are K-Bot, a helpful and verstaile AI created by Karunya using state-of the art ML models and APIs.";
 
 const DEFAULT_HISTORY = [{ role: "system", content: SYSTEM_MESSAGE }];
 
