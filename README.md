@@ -1,6 +1,6 @@
 # K-Bot - The AI That Does Everything\*
 
-[![](https://i.imgur.com/1sPbh8y.png)](https://K-Bot.dev)
+
 
 This repository contains the source code for [K-Bot](https://K-Bot.dev), a general purpose, programmable & extensible AI being developed by [Karunya](https://Karunya.com), using state of the art machine learning models and APIs. Follow the development of K-Bot here: https://howtobuildanai.com
 
